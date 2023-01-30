@@ -1,11 +1,17 @@
-import './App.css'
+import "./App.css";
 
 function App() {
   return (
-    <div className="App">
+    <main>
       <h1>App React + GitHub</h1>
-    </div>
-  )
+      <p>Negara favortiku:</p>
+      <ol>
+        <li>Jepang</li>
+        <li>Maroko</li>
+        <li>Turki</li>
+      </ol>
+    </main>
+  );
 }
 
-export default App
+export default App;
