@@ -6,6 +6,7 @@ function App() {
       <h1>App React + GitHub</h1>
       <p>Tutorial React + Github agar kolaborasi lebih baik</p>
       <p>Follow instagram Kampus Frontend</p>
+      <p>Follow Facebook Kampus Frontend</p>
     </div>
   );
 }
