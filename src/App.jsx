@@ -4,14 +4,9 @@ function App() {
   return (
     <main>
       <h1>App React + GitHub</h1>
-      <p>Negara favortiku:</p>
-      <ol>
-        <li>Jepang</li>
-        <li>Maroko</li>
-        <li>Turki</li>
-      </ol>
-    </main>
-  );
+      <p>Tutorial React + Github agar kolaborasi lebih baik</p>
+    </div>
+  )
 }
 
 export default App;
